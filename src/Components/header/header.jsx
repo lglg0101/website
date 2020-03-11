@@ -71,7 +71,7 @@ export default class Header extends Component {
                   </li>
                   <li>
                     {" "}
-                    <a href="linkedin.com/in/lissy-gundersen/">
+                    <a href="https://linkedin.com/in/lissy-gundersen/">
                       {" "}
                       <i className="fa fa-linkedin" />{" "}
                     </a>
